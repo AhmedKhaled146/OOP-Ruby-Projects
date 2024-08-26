@@ -1,4 +1,7 @@
+# Write a Ruby program to create a class called "Library" with a collection of books and methods to add and remove books.
+
 class Library
+
   def initialize
     @books = []
   end

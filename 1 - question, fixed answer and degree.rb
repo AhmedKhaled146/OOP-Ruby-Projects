@@ -1,3 +1,5 @@
+# Questions and Fixed Answer
+
 class Question
   attr_accessor :prompt, :answer
 

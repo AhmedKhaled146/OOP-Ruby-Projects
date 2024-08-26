@@ -1,0 +1,1 @@
+## - In my journey to learn and review OOP in Ruby, I decided to work on building 30 projects based on OOP principles, trying to take the principles into account as much as possible. 
